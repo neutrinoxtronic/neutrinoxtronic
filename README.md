@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neutrinoxtronic
-- 👀 I’m interested in AI Revolution & Innovation, RPA & Automation, Machine Learning and exploring new possibilities.
-- 🌱 I’m currently learning and expanding my knowledge in Metaverse, Blockchain, Data and AI, Business Hacking, Conversational Interfaces & Digital Platforms.
+- 👀 I’m interested in AI Revolution & Innovation, RPA, Automation, Machine Learning and exploring the new possibilities.
+- 🌱 I’m currently developing projects in Metaverse, Blockchain, Data Analytics, AI Natural Conversations, Brain Computer Interfaces & Digital Platforms.
 - 💻 I have experience in designing and modelling software applications and have a keen interest in leveraging AI technologies to create new solutions.
 - 📚 I believe in continuous learning and staying updated with the latest advancements in AI and ML.
 - 💡 I'm passionate about using technology to solve real-world problems and making a positive impact.
