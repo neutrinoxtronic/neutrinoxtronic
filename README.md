@@ -5,6 +5,7 @@
 - 📚 I believe in continuous learning and staying updated with the latest advancements in AI and ML.
 - 💡 I'm passionate about using technology to solve real-world problems and making a positive impact.
 - 🌐 Check out my GitHub repositories to see my projects and contributions in the field of AI, Automation, RPA and software design.
+- ⚡ Fun fact I created my first website when I was 13.
 - 👾 Visit my linkedin profile at https://www.linkedin.com/in/figuemat/
 
 
