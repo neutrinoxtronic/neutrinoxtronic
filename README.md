@@ -4,8 +4,8 @@
 - 💻 I have experience in designing and modelling software applications to create new solutions.
 - 💡 I'm passionate about using technology to solve real-world problems and making a positive impact.
 - :octocat: Check out my GitHub repositories to see my projects and contributions in the field of AI Design.
-- ⚡ Fun fact I created my first website when I was 13.
 - :electron: I am an Ex-Web-Developer of Ancient Alien Technology (html/css/php).
+- ⚡ Fun Fact:  I created & hosted my first basic website when I was 13.
 - 👾 Visit my linkedin profile at https://www.linkedin.com/in/figuemat/
 
 
