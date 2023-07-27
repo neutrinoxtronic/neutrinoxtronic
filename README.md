@@ -3,7 +3,7 @@
 - 🤖 I’m currently developing projects in Metaverse, Blockchain, Cloud, Natural Conversations & Brain Computer Interfaces.
 - 💻 I have experience in designing and modelling software applications to create new solutions.
 - 💡 I'm passionate about using technology to solve real-world problems and making a positive impact.
-- :octocat: Check out my GitHub repositories to see my projects and contributions in the field of AI Design.
+- :octocat: Check out my GitHub repositories to see my projects and contributions in the field of Software Design.
 - :electron: I am an Ex-Web-Developer of Ancient Alien Technology (html/css/php).
 - ⚡ Fun Fact:  I created & hosted my first basic website when I was 13.
 - 👾 Visit my linkedin profile at https://www.linkedin.com/in/figuemat/
