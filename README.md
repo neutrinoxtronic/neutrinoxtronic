@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neutrinoxtronic
 - 👀 I’m interested in AI Revolution & Innovation, RPA, Automation & Machine Learning possibilities.
-- 🤖 I’m currently developing projects in Metaverse, Blockchain, Cloud, Natural Conversations & Brain Computer Interfaces.
+- 🤖 I’m currently developing projects in Metaverse, Blockchain, Cloud, Natural Conversations & Brain Computer Interfaces (Flexible Neural Electronics).
 - 💻 I have experience in designing & modelling software applications to create new solutions.
 - 💡 I'm passionate about using technology to solve real-world problems & making a positive impact.
 - :octocat: Check out my GitHub repositories to see my projects & contributions in the field of Software Design.
