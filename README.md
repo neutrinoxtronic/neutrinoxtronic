@@ -7,7 +7,7 @@
 - 🎯 My first project was a Geographic Information System for 3-Dimensional & Geospatial Visualization with Interactive Web Maps.
 - :electron: I am an Ex-Web-Developer of Ancient Alien Technology (apache/php/css/html).
 - ⚡ Fun Fact:  I created & hosted my first basic website when I was 13.
-- 👾 Visit my linkedin profile at https://www.linkedin.com/in/figuemat/
+- 👾 Visit my linkedin profile ==> https://www.linkedin.com/in/figuemat/
 
 
 
