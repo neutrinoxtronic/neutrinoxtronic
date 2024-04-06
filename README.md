@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @neutrinoxtronic
-- 👀 I’m interested in Quantum Computing, AI Revolution, RPA Innovation, Automation & Machine Learning possibilities.
-- 🤖 I’m currently developing projects in Metaverse, Blockchain, Gaming & Cloud.
+- 👀 I’m interested in Data Architecture, Data Engineering, Data Governance, Data Analysis, Data Science, Data Mining & Big Data Projects.
+- 👀 I’m also interested in Quantum Computing, AI Revolution, RPA Innovation, Automation & Machine Learning possibilities.
+- 🤖 I’m currently developing projects in Data/AI/ML, Metaverse, Blockchain, Gaming & Cloud.
 - 💻 I have experience in designing & modelling software applications to create new solutions.
 - 💡 I'm passionate about using technology to solve real-world problems & making a positive impact.
 - :octocat: Check out my GitHub repositories to see my projects & contributions in the field of Software Design.
