@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neutrinoxtronic
-- 👀 I’m interested in Data Architecture, Data Engineering, Data Governance, Data Analysis, Data Science, Data Mining & Big Data Projects.
+- 👀 I’m interested in Data Governance, Data Analyst, Data Scientist, Business Analytics, Business Intelligence, Data Management, Data Architect, Google Cloud Data Engineer, Big Data Projects, Economic Insights and Data-Driven Life ⚜️
 - 👀 I’m also interested in Quantum Computing, AI Revolution, RPA Innovation, Automation & Machine Learning possibilities.
 - 🤖 I’m currently developing projects in Data/AI/ML, Metaverse, Blockchain, Gaming & Cloud.
 - 💻 I have experience in designing & modelling software applications to create new solutions.
