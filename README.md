@@ -12,6 +12,7 @@
 - 👾 Visit my credly profile ==> credly.com/users/jose-figueredo-mat/badges
 - 👾 Visit my credential profile ==> credential.net/profile/jf57302/wallet
 - 👾 Visit my stackoverflow profile ==> stackoverflow.com/users/4134498
+- 👾 Visit my blogspot profile ==> https://jose-figueredo-matute.blogspot.com/2024/06/jose-figueredo-matute.html
 
 
 
