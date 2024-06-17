@@ -8,6 +8,11 @@
 - :electron: I am an Ex-Web-Developer of Ancient Alien Technology (apache/php/css/html).
 - ⚡ Fun Fact: I created & hosted my first html website when I was 13.
 - 👾 Visit my linkedin profile ==> https://www.linkedin.com/in/figuemat/
+- 👾 Visit my g.dev profile ==> g.dev/neutrinoxtronic
+- 👾 Visit my credly profile ==> credly.com/users/jose-figueredo-mat/badges
+- 👾 Visit my credential profile ==> credential.net/profile/jf57302/wallet
+- 👾 Visit my stackoverflow profile ==> stackoverflow.com/users/4134498
+
 
 
 
