@@ -6,13 +6,7 @@
 - :octocat: Check out my GitHub repositories to see my projects & contributions in the field of Software Design.
 - 🎯 My first project was a Geographic Information System for 3-Dimensional & Geospatial Visualization with Interactive Web Maps.
 - :electron: I am an Ex-Web-Developer of Ancient Alien Technology (apache/php/css/html).
-- ⚡ Fun Fact: I created & hosted my first html website when I was 13.
-- 👾 Visit my linkedin profile ==> https://www.linkedin.com/in/figuemat/
-- 👾 Visit my g.dev profile ==> g.dev/neutrinoxtronic
-- 👾 Visit my credly profile ==> credly.com/users/jose-figueredo-mat/badges
-- 👾 Visit my credential profile ==> credential.net/profile/jf57302/wallet
-- 👾 Visit my stackoverflow profile ==> stackoverflow.com/users/4134498
-- 👾 Visit my blogspot profile ==> https://jose-figueredo-matute.blogspot.com/2024/06/jose-figueredo-matute.html
+- ⚡ Fun Fact: I created & hosted my first html website when I was 11.
 
 
 
