@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Strategy, Data Analyst, Business Intelligence, Data Management, Economic Insights and Data-Driven Life ⚜️
 - 💻 I have experience in designing & modelling BI solutions to solve real-world problems & making a positive impact.
 - 🎯 My first project was a Geographic Information System for 3-Dimensional & Geospatial Visualization with Interactive Web Maps.
-- ⚡ Fun Fact: I created & hosted my first html website when I was 11. I was Web-Developer of Ancient Alien Technology (apache/php/css/html).
+- ⚡ Fun Fact: I created & hosted my first html website when I was 11, using Ancient and Ancestral Technology (apache/php/css/html).
 - 🤖 I’m currently developing BI projects with Data/AI/ML.
 
 
